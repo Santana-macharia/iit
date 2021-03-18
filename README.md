@@ -8,7 +8,7 @@ This is a basic web app to illustrate deployment with nginx and waitress
 
 2. Install Python 3.7 in `C:/Python37` and install 
 
-    - `django`, `openpyxl` and [`waitress`]
+    - `django`, `openpyxl` and `waitress`
 
 3. Edit `ALLOWED_HOSTS` in `settings.py`. Waitress will be running the Django server at `http://localhost:8080`.
 
